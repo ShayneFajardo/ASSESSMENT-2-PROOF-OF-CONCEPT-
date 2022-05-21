@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,UAAU;EACN,WAAW,EAAE,YAAY;EACzB,GAAG,EAAE,iCAAiC",
+    "sources": [
+        "fonto.scss"
+    ],
+    "names": [],
+    "file": "fonto.css"
+}
